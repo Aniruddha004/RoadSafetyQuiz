@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Road Safety Quiz</string>
+    <string name="RS">Road Safety</string>
+    <string name="quiz">Quiz</string>
+    <string-array name="correctAnswersArray">
+        <item>@string/answer_q1_2</item><!--q1-->
+        <item>@string/answer_q2_1</item><!--q2-->
+        <item>@string/answer_q3_1</item><!--q3-->
+        <item>@string/answer_q4_3</item><!--q4-->
+        <item>@string/answer_q5_1</item><!--q5-->
+        <item>@string/answer_q6_3</item><!--q6-->
+        <item>@string/answer_q7_2</item><!--q7-->
+        <item>@string/answer_q8_2</item><!--q8-->
+        <item>@string/answer_q9_1</item><!--q9-->
+        <item>@string/answer_q10_3</item><!--q10-->
+        <item>@string/answer_q11_3</item><!--q11-->
+        <item>@string/answer_q12_1</item><!--q12-->
+        <item>@string/answer_q13_3</item><!--q13-->
+        <item>@string/answer_q14_1</item><!--q14-->
+        <item>@string/answer_q15_2</item><!--q15-->
+
+
+    </string-array>
+
+    <string name="q11">If you are near a pedestrian crossing and there are people waiting to cross the road, you should</string>
+    <string name="answer_q11_1">Slow down, press horn and proceed</string>
+    <string name="answer_q11_2">Press horn and proceed</string>
+    <string name="answer_q11_3">Stop the vehicle, wait until pedestrians cross and then move forward</string>
+
+    <string name="q12">You are coming towards a narrow bridge and another vehicle is about to enter the bridge from the other side. What should you do?</string>
+    <string name="answer_q12_1">Dont Wait until the other vehicle crosses the bridge</string>
+    <string name="answer_q12_2">Wait until the other vehicle crosses the bridge before proceeding</string>
+    <string name="answer_q12_3">Increase speed of the vehicle and try to cross the bridge quickly</string>
+
+
+    <string name="q13">In case you see a vehicle that has met with an accident with injured passengers inside, you should -</string>
+    <string name="answer_q13_1">Stop your vehicle and report the matter to the nearest police station</string>
+    <string name="answer_q13_2">Take the vehicle to the closest police station and report the accident</string>
+    <string name="answer_q13_3">Take measures to secure medical attention to those injured and report the accident to the closest police station within a period of 24 hours</string>
+
+    <string name="q14">On a road that has been designated as one way</string>
+    <string name="answer_q14_1">You should not drive in reverse gear</string>
+    <string name="answer_q14_2">You should not overtake</string>
+    <string name="answer_q14_3">You should not park</string>
+
+    <string name="q15">You can overtake a vehicle that is in the front</string>
+    <string name="answer_q15_1">Through the left side of the vehicle ahead</string>
+    <string name="answer_q15_2">Through the right side of the vehicle ahead</string>
+    <string name="answer_q15_3">If the road is wide enough</string>
+
+    <string name="q6">If a vehicle approaches a railway crossing that is not guarded and the vehicle wants to proceed, the driver should</string>
+    <string name="answer_q6_1">Wait until the train passes</string>
+    <string name="answer_q6_2">Press horn and cross the track at the earliest</string>
+    <string name="answer_q6_3">Stop the vehicle on left hand side of the road, approach the track and ensure that there is no train or trolley coming from any side prior to crossing.</string>
+
+    <string name="q7">Transport vehicles can be distinguished by</string>
+    <string name="answer_q7_1">The colour of the vehicle</string>
+    <string name="answer_q7_2">Number plate of the vehicle</string>
+    <string name="answer_q7_3">Tyre size of the vehicle</string>
+
+    <string name="q8">A learner’s license is valid for a period of</string>
+    <string name="answer_q8_1">30 days</string>
+    <string name="answer_q8_2">6 months</string>
+    <string name="answer_q8_3">Until a driving licence is availed</string>
+
+    <string name="q9">In case a road does not have a footpath, pedestrians will have to</string>
+    <string name="answer_q9_1">Walk on the right side of the road</string>
+    <string name="answer_q9_2">Walk on the left side of the road</string>
+    <string name="answer_q9_3">Walk on any side of the road</string>
+
+    <string name="q10">Free passage should be provided to the following vehicles</string>
+    <string name="answer_q10_1">Express buses</string>
+    <string name="answer_q10_2">Police vehicles</string>
+    <string name="answer_q10_3">Fire service vehicles and ambulance</string>
+
+    <string name="q1">Vehicles that come from the opposite side should be allowed to proceed through the</string>
+    <string name="answer_q1_1">Left side</string>
+    <string name="answer_q1_2">Right side</string>
+    <string name="answer_q1_3">Any convenient side</string>
+
+    <string name="q2">Driver of a vehicle can overtake when</string>
+    <string name="answer_q2_1">The driver of the vehicle ahead gives the signal to overtake</string>
+    <string name="answer_q2_2">Road is wide enough</string>
+    <string name="answer_q2_3">Driving down a hill</string>
+
+    <string name="q3">Driver of a vehicle shall drive through the</string>
+    <string name="answer_q3_1">Left side of the road</string>
+    <string name="answer_q3_2">Right side of the road</string>
+    <string name="answer_q3_3">Center of the road</string>
+
+    <string name="q4">If a vehicle is parked on the side of a road at night</string>
+    <string name="answer_q4_1">The vehicle should be locked</string>
+    <string name="answer_q4_2">Park light should remain on</string>
+    <string name="answer_q4_3">All of the above</string>
+
+    <string name="q5">Fog lamps should be used when</string>
+    <string name="answer_q5_1">There is mist</string>
+    <string name="answer_q5_2">At night</string>
+    <string name="answer_q5_3">When the vehicle opposite is not using the dim light</string>
+
+    <string name="welcome_to">Welcome to</string>
+    <string name="RS_quiz">Road Safety Quiz</string>
+    <string name="lets_see">Let\'s check how well you know the about safety precautions on road!</string>
+    <string name="name">ENTER YOUR NAME</string>
+    <string name="player_name">player name</string>
+    <string name="player_score">score</string>
+    <string name="button_start">start</string>
+    <string name="button_start_new">new game</string>
+    <string name="button_submit">submit</string>
+    <string name="contentDescription">yellow background</string>
+    <string name="validation_emptyName">Name cannot be empty</string>
+    <string name="validation_error">Not all the questions was answered</string>
+    <string name="Q">q</string>
+
+    <!--Popup-->
+    <string name="congrats">Congrats, %s</string>
+    <string name="score_text">Your final score is: </string>
+    <string name="score_number">X</string>
+    <string name="out_of">You got %d out of %d questions right</string>
+
+    <!--Config-->
+    <string name="number_of_questions">10</string>
+
+    <!--STATE-->
+    <string name="STATE_PLAYER_NAME">PLAYER_NAME</string>
+    <string name="STATE_Q1">STATE_Q1</string>
+    <string name="STATE_Q2">STATE_Q2</string>
+    <string name="STATE_Q3">STATE_Q3</string>
+    <string name="STATE_Q4">STATE_Q4</string>
+    <string name="STATE_Q5">STATE_Q5</string>
+    <string name="STATE_Q6">STATE_Q6</string>
+    <string name="STATE_Q7">STATE_Q7</string>
+    <string name="STATE_Q8">STATE_Q8</string>
+    <string name="STATE_Q9">STATE_Q9</string>
+    <string name="STATE_Q10">STATE_Q10</string>
+    <string name="STATE_Q11">STATE_Q11</string>
+    <string name="STATE_Q12">STATE_Q12</string>
+    <string name="STATE_Q13">STATE_Q13</string>
+    <string name="STATE_Q14">STATE_Q14</string>
+    <string name="STATE_Q15">STATE_Q15</string>
+
+    <!--LOG-->
+    <string name="LOG_ONRESTORE_ERROR">error in onRestoreInstanceState method</string>
+
+    <!--Activity Names-->
+    <string name="quiz_activity_name">QuizActivity</string>
+
+
+</resources>
